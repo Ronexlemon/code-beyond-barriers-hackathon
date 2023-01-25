@@ -12,20 +12,20 @@ export const ourPromiseSource = [
     image: check,
     title: "Scalable",
     content:
-      "Get verified and accurate data from our application that incentivizes the community to help gather trusted information.",
+      "Our Application utilizes the blockchain to make it robust and efficient process numerous tasks and report",
   },
   {
     id: 3,
     image: check,
-    title: "Reliable",
+    title: "Community",
     content:
-      "Get verified and accurate data from our application that incentivizes the community to help gather trusted information.",
+      "Our DAO is built by the community, for the community, acting as a platform for good",
   },
   {
     id: 4,
     image: check,
-    title: "Scalable",
+    title: "Privacy",
     content:
-      "Get verified and accurate data from our application that incentivizes the community to help gather trusted information.",
+      "Our DAO is built by the community, for the community, acting as a platform for good",
   },
 ];

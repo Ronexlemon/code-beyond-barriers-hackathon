@@ -4,10 +4,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundColor: {
-        button: "#5FB868",
+        button: "#27AE60",
+        section: "#F1F1F4",
       },
       colors: {
-        text: "#5FB868",
+        text: "#27AE60",
       },
       fontSize: {},
       height: {},

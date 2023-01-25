@@ -5,7 +5,7 @@ const MonitorAnalytics = () => {
       <section className="container mx-auto flex flex-col md:flex-row items-center">
         <article className="w-full flex items-center flex-col p-5 md:w-6/12 text-center md:text-left md:block">
           <h1 className="font-extrabold text-2xl md:text-4xl lg:text-5xl p-2 md:p-0 md:pb-3">
-            Monitor analytics in real time with blockchain
+            Monitor <span className="text-red-400">analytics</span>  in real time with <span className="text-red-400">blockchain</span> 
           </h1>
           <p className="font-medium  md:py-5 md:text-base xl:text-lg">
             Get access to accurate, factual reports from the people at the
